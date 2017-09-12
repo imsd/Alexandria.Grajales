@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Script intro day2.unity
+- path: Assets/Scenes/Interaction.unity
   isLoaded: 1
   isActive: 1
