@@ -53,6 +53,8 @@
   <ItemGroup>
      <Compile Include="Assets\Script\InteractionCube.cs" />
      <Compile Include="Assets\Script\Iteration.cs" />
+     <Compile Include="Assets\Script\keyboardgeneral.cs" />
+     <Compile Include="Assets\Script\keyboardLeftRight.cs" />
      <Compile Include="Assets\Script\Rotate.cs" />
      <Compile Include="Assets\Script\spawn.cs" />
  <Reference Include="UnityEngine.UI">
