@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Interaction.unity
+- path: Assets/Scenes/Dominos.unity
   isLoaded: 1
   isActive: 1

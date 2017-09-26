@@ -101,9 +101,11 @@
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_PRO_LICENSE
-'Assets/Script/input.cs'
 'Assets/Script/InteractionCube.cs'
 'Assets/Script/Iteration.cs'
+'Assets/Script/keyboardgeneral.cs'
+'Assets/Script/keyboardLeftRight.cs'
+'Assets/Script/mouse.cs'
 'Assets/Script/Rotate.cs'
 'Assets/Script/spawn.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'

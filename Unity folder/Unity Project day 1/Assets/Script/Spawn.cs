@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spawner : MonoBehaviour {
+public class spawn : MonoBehaviour {
 
 	// add a gameobject to the inspector
 	// that we can access in this script

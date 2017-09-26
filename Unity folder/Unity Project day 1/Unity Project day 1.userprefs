@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/InteractionCube.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/keyboardgeneral.cs">
     <Files>
-      <File FileName="Assets/Script/InteractionCube.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/keyboardgeneral.cs" Line="18" Column="19" />
+      <File FileName="Assets/Script/keyboardLeftRight.cs" Line="30" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -105,6 +105,7 @@
 'Assets/Script/Iteration.cs'
 'Assets/Script/keyboardgeneral.cs'
 'Assets/Script/keyboardLeftRight.cs'
+'Assets/Script/mouse.cs'
 'Assets/Script/Rotate.cs'
 'Assets/Script/spawn.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
