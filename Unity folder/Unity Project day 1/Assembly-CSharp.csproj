@@ -56,6 +56,7 @@
      <Compile Include="Assets\Script\keyboardgeneral.cs" />
      <Compile Include="Assets\Script\keyboardLeftRight.cs" />
      <Compile Include="Assets\Script\mouse.cs" />
+     <Compile Include="Assets\Script\ProjectileMouse.cs" />
      <Compile Include="Assets\Script\Rotate.cs" />
      <Compile Include="Assets\Script\spawn.cs" />
  <Reference Include="UnityEngine.UI">
