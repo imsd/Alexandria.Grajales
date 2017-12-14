@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dining room", "Assembly-CSharp.csproj", "{FDE21212-D3AE-957C-51AB-0AC0C5D52908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dining room", "Assembly-CSharp-Editor.csproj", "{AEAB02A8-8F31-B5CA-70F5-29C4A480BCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE21212-D3AE-957C-51AB-0AC0C5D52908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE21212-D3AE-957C-51AB-0AC0C5D52908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE21212-D3AE-957C-51AB-0AC0C5D52908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE21212-D3AE-957C-51AB-0AC0C5D52908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAB02A8-8F31-B5CA-70F5-29C4A480BCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAB02A8-8F31-B5CA-70F5-29C4A480BCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAB02A8-8F31-B5CA-70F5-29C4A480BCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAB02A8-8F31-B5CA-70F5-29C4A480BCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

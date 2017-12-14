@@ -9,6 +9,12 @@ public class GetWeather : MonoBehaviour {
 	public GameObject LightRain;
 	public GameObject LightCloud;
 	public GameObject HeavyCloud;
+	public GameObject HeavySnow;
+	public GameObject HeavyRain;
+	public GameObject LightSnow;
+
+
+
 
 	public string url = "https://www.metaweather.com/api/location/2459115/";
 	IEnumerator Start() {
@@ -38,5 +44,26 @@ public class GetWeather : MonoBehaviour {
 		if (WeatherType == "Heavy Cloud") {
 			HeavyCloud.SetActive (true);
 		}
+
+		if (WeatherType == "Light Rain") {
+			LightRain.SetActive (true);
+		}
+
+		if (WeatherType == "Light Cloud") {
+			LightCloud.SetActive (true);
+		}
+
+		if (WeatherType == "Heavy Rain") {
+			HeavyRain.SetActive (true);
+		}
+
+		if (WeatherType == "Heavy Snow") {
+			HeavySnow.SetActive (true);
+		}
+
+		if (WeatherType == "Light Snow") {
+			LightSnow.SetActive (true);
+		}
+			
 	}
 }

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocean3", "Assembly-CSharp-firstpass.csproj", "{049CAC3B-B27C-1E14-23F9-7EB8548BF422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocean3", "Assembly-CSharp.csproj", "{29EA990C-B2C6-1D0A-34BE-EEEB62EDC948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocean3", "Assembly-CSharp-Editor-firstpass.csproj", "{92F284BB-D0F4-4731-6F80-ED91E75BAD0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049CAC3B-B27C-1E14-23F9-7EB8548BF422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049CAC3B-B27C-1E14-23F9-7EB8548BF422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049CAC3B-B27C-1E14-23F9-7EB8548BF422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049CAC3B-B27C-1E14-23F9-7EB8548BF422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EA990C-B2C6-1D0A-34BE-EEEB62EDC948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EA990C-B2C6-1D0A-34BE-EEEB62EDC948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EA990C-B2C6-1D0A-34BE-EEEB62EDC948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EA990C-B2C6-1D0A-34BE-EEEB62EDC948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F284BB-D0F4-4731-6F80-ED91E75BAD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F284BB-D0F4-4731-6F80-ED91E75BAD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F284BB-D0F4-4731-6F80-ED91E75BAD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F284BB-D0F4-4731-6F80-ED91E75BAD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
